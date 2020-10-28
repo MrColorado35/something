@@ -43,3 +43,12 @@ body {
 .text-black {
     color: #000;
 }
+
+#footer {
+    /* position: fixed; */
+    bottom: 0;
+    left: 0;
+    min-height: 120px;
+    width: 100%;
+    
+}
